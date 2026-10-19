@@ -129,7 +129,7 @@
   const LOC = {
     riyadh: { v: 'gulf', p: 'Riyadh, Saudi Arabia', i: [['Diriyah Gate II: KSU Utilities & Facilities Relocation', 'USD 1.45B EPC · now']] },
     makkah: { v: 'gulf', p: 'Makkah, Saudi Arabia', i: [['Jabal Omar S7 Hotel & Serviced Apartments', '3 five-star hotel & residential towers · 45+ floors · now']] },
-    doha: { v: 'gulf', p: 'Doha, Qatar', i: [['FIFA World Cup Qatar 2022 training sites', 'USD 80M · Supreme Committee'], ['Doha Metro stations & Umm Ghuwailina TOD', '7 stations · Qatar Rail'], ['Qatar Public Bus Infrastructure Programme', 'USD 120M'], ['Sofitel & Novotel hotels', 'USD 210M'], ['Ministry of Interior HQ & Officers’ Club', 'USD 180M']] },
+    doha: { v: 'gulf', p: 'Doha, Qatar', i: [['FIFA World Cup Qatar 2022 training sites', 'USD ~180M · Supreme Committee'], ['Doha Metro stations & Umm Ghuwailina TOD', '7 stations · Qatar Rail'], ['Qatar Public Bus Infrastructure Programme', 'USD 120M'], ['Sofitel & Novotel hotels', 'USD 210M'], ['Ministry of Interior HQ & Officers’ Club', 'USD 180M']] },
     abudhabi: { v: 'gulf', p: 'Abu Dhabi, UAE', i: [['Danat Al Emarat Hospital', 'Structural design']] },
     cairo: { v: 'gulf', p: 'Cairo, Egypt', i: [['Barwa City, New Cairo', 'Structural design']] },
     damietta: { v: 'gulf', p: 'Damietta, Egypt', i: [['Damietta & El Shabab power plants', 'Structural engineering']] },
@@ -142,7 +142,7 @@
     kingcity: { v: 'ontario', p: 'King City', i: [['Barrie Rail Corridor Widening', 'USD ~13M (CAD 18M)']] },
     niagara: { v: 'ontario', p: 'Niagara Falls', i: [['Niagara Falls Layover Expansion', 'USD ~16M (CAD 22M)']] },
     gta: { n: 8, v: 'world', p: 'Greater Toronto, Canada', i: [['8 rail, transit and development projects', 'USD 6.8B · 2020 – 2025']] },
-    gcc: { n: 8, v: 'world', p: 'Qatar, Saudi Arabia & UAE', i: [['Utilities, metro, events and hospitality', 'USD 2.0B · 2008 – now']] },
+    gcc: { n: 8, v: 'world', p: 'Qatar, Saudi Arabia & UAE', i: [['Utilities, metro, events and hospitality', 'USD 2.1B · 2008 – now']] },
     egypt: { n: 2, v: 'world', p: 'Egypt', i: [['Structural design and power plants', '2008 – 2013']] }
   };
   const ZOOM = { gta: 'ontario', gcc: 'gulf', egypt: 'gulf' };
